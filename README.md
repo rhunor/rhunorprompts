@@ -4,6 +4,10 @@ Rhunor Prompt is a powerful full stack web application built with Next.js, desig
 
 ![Rhunor Prompt Screenshot](https://raw.githubusercontent.com/rhunor/promptipia/main/images/Screenshot%202023-08-06%20at%2010.00.01%20PM.png?token=GHSAT0AAAAAACEJ6MSHWVHCGQBWNDJ4VFJYZGQBKIA)
 
+## Live Demo
+
+Check out the live demo of Rhunor Prompt: [Rhunor Prompt Live Demo](https://rhunorprompts.vercel.app/)
+
 ## Features
 
 - **AI Prompt Sharing**: Users can easily share prompts with the AI community and copy prompts to use in their own AI applications.
